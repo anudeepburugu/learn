@@ -82163,10 +82163,10 @@ o=A.y(a)
 n=A.y(a).ax
 m=n.k2
 n=m==null?n.c:m
-m=A.abl(A.cW("CORRECT",j,j,j,j,h.gfV(h)===B.cp?A.y(a).p3.z.bi(B.i):A.y(a).p3.w.bi(B.i),j,j))
-l=A.abl(A.cW("OPTIONS",j,j,j,j,h.gfV(h)===B.cp?A.y(a).p3.z.bi(B.i):A.y(a).p3.w.bi(B.i),j,j))
-k=A.abl(A.cW("SKIPPED",j,j,j,j,h.gfV(h)===B.cp?A.y(a).p3.z.bi(B.i):A.y(a).p3.w.bi(B.i),j,j))
-return A.j2(new A.wj(4,A.aoU(A.arp(r,p.ax.b,new A.A6(A.b([m,l,k,A.abl(A.cW("WRONG",j,j,j,j,h.gfV(h)===B.cp?A.y(a).p3.z.bi(B.i):A.y(a).p3.w.bi(B.i),j,j))],s),n,o.ax.b,j),!0,q,B.y2),new A.A7(g,j),j,j,j,j),j),i,j)}}
+m=A.abl(A.cW("Correct",j,j,j,j,h.gfV(h)===B.cp?A.y(a).p3.z.bi(B.i):A.y(a).p3.w.bi(B.i),j,j))
+l=A.abl(A.cW("Options",j,j,j,j,h.gfV(h)===B.cp?A.y(a).p3.z.bi(B.i):A.y(a).p3.w.bi(B.i),j,j))
+k=A.abl(A.cW("Skipped",j,j,j,j,h.gfV(h)===B.cp?A.y(a).p3.z.bi(B.i):A.y(a).p3.w.bi(B.i),j,j))
+return A.j2(new A.wj(4,A.aoU(A.arp(r,p.ax.b,new A.A6(A.b([m,l,k,A.abl(A.cW("Wrong",j,j,j,j,h.gfV(h)===B.cp?A.y(a).p3.z.bi(B.i):A.y(a).p3.w.bi(B.i),j,j))],s),n,o.ax.b,j),!0,q,B.y2),new A.A7(g,j),j,j,j,j),j),i,j)}}
 A.a8I.prototype={
 $2(a,b){var s,r,q=null,p=this.a,o=this.b,n=this.c,m=J.ai(o),l=J.aF(p.a.c,J.aF(m.h(o,n),b))
 l.toString
